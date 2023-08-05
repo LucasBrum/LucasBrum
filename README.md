@@ -1,4 +1,4 @@
-# 💫 About Me:
+# ✌️About Me:
 𝐇𝐢! 𝐈'𝐦 Lucas Brum<br>🔭 A ᴘᴀssɪᴏɴᴀᴛᴇ Backend Dᴇᴠᴇʟᴏᴘᴇʀ ғʀᴏᴍ Brazil with an ambition to continue learning.
 
 ## 🌐 Socials:
