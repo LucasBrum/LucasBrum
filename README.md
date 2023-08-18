@@ -1,6 +1,9 @@
 # ✌️About Me:
 𝐇𝐢! 𝐈'𝐦 Lucas Brum<br>🔭 A ᴘᴀssɪᴏɴᴀᴛᴇ Backend Dᴇᴠᴇʟᴏᴘᴇʀ ғʀᴏᴍ Brazil with an ambition to continue learning.
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=lucasbrum)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucasbrum&show_icons=true&theme=tokyonight\&include_all_commits=true)
+
+
 
 https://github-readme-stats.vercel.app/api?username=lucasbrum&include_all_commits=true
 # 📊 GitHub Stats:
