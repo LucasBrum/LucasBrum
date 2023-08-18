@@ -1,6 +1,7 @@
 # ✌️About Me:
 𝐇𝐢! 𝐈'𝐦 Lucas Brum<br>🔭 A ᴘᴀssɪᴏɴᴀᴛᴇ Backend Dᴇᴠᴇʟᴏᴘᴇʀ ғʀᴏᴍ Brazil with an ambition to continue learning.
 
+https://github-readme-stats.vercel.app/api?username=lucasbrum&include_all_commits=true
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=LUCASBRUM&theme=chartreuse-dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=LUCASBRUM&theme=chartreuse-dark&hide_border=true)<br/>
