@@ -1,19 +1,161 @@
-# ✌️About Me:
-𝐇𝐢! 𝐈'𝐦 Lucas Brum<br>🔭 A ᴘᴀssɪᴏɴᴀᴛᴇ Backend Dᴇᴠᴇʟᴏᴘᴇʀ ғʀᴏᴍ Brazil with an ambition to continue learning.
+# 𝐇𝐢! 𝐈'𝐦 Lucas Brum 👋
 
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=lucasbrum\&show_icons=true\&theme=radical#gh-dark-mode-only)](https://github.com/lucasbrum/github-readme-stats#responsive-card-theme#gh-dark-mode-only)
+<div align="center">
+  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Backend+Developer;Java+%26+Spring+Enthusiast;Kotlin+Explorer;Microservices+Architect;Always+Learning!)](https://git.io/typing-svg)
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/lucasbrumguitar) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/coding_brum) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/lucasbrum) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@lucasbrumguitar) 
+</div>
 
+## 🚀 About Me
 
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=java&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=plastic&logo=oracle&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=plastic&logo=angular&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=plastic&logo=chart.js&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=plastic&logo=JSON%20web%20tokens) ![RxJS](https://img.shields.io/badge/rxjs-%23B7178C.svg?style=plastic&logo=reactivex&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=plastic&logo=spring&logoColor=white) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=plastic&logo=Apache%20Maven&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=plastic&logo=jenkins&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=plastic&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=plastic&logo=mysql&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=plastic&logo=jira&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=plastic&logo=kubernetes&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=plastic&logo=notion&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=plastic&logo=swagger&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=plastic&logo=Trello&logoColor=white)
+🔭 **Passionate Backend Developer** from the beautiful city of **Rio de Janeiro, Brazil** 🇧🇷
 
+💡 I'm a **lifelong learner** with an unstoppable ambition to continue growing and exploring new technologies in the backend development ecosystem.
 
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=lucasbrum&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+🎯 **Mission**: Building robust, scalable, and efficient backend solutions that power amazing user experiences.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=LUCASBRUM&icon=0&color=1)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🛠️ Tech Stack & Expertise
+
+### 💻 Languages
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+
+### 🏗️ Frameworks & Technologies
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-%236DB33F.svg?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
+
+### 🏛️ Architecture & Patterns
+![Microservices](https://img.shields.io/badge/Microservices-%23FF6B6B.svg?style=for-the-badge&logo=microgenetics&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-%23009639.svg?style=for-the-badge&logo=fastapi&logoColor=white)
+
+---
+
+## 🎯 Featured Projects
+
+### 🌟 [Brum SpringBoot Java Backend Engineer](https://github.com/LucasBrum/brum-springboot-java-back-end-engineer)
+**Microservice for Curriculum Grid Maintenance**
+- 🔧 **Tech**: Java, Spring Boot
+- 📋 **Focus**: Microservices architecture and curriculum management
+- 🎯 **Purpose**: Scalable backend solution for educational systems
+
+### 🚀 [API Kotlin Tour](https://github.com/LucasBrum/api-kotlin-tour)
+**Proof of Concept using Kotlin**
+- 🔧 **Tech**: Kotlin
+- 📋 **Focus**: Exploring Kotlin for backend development
+- 🎯 **Purpose**: Demonstrating Kotlin's capabilities in API development
+
+### ⏰ [Ponto Inteligente System](https://github.com/LucasBrum/ponto-inteligente-api)
+**Complete Time Management Solution**
+- 🔧 **Backend**: Spring Boot
+- 🔧 **Frontend**: Angular 12, TypeScript
+- 📋 **Focus**: Full-stack enterprise application
+- 🎯 **Purpose**: Smart time tracking and management system
+
+### 📚 [Rasmoo Microservice - Curriculum Grid](https://github.com/LucasBrum/rasmoo-ms-grade-curricular)
+**Educational Microservice Architecture**
+- 🔧 **Tech**: Java, Spring Boot
+- 📋 **Focus**: Microservices for education platform
+- 🎯 **Purpose**: Curriculum grid maintenance and management
+
+### 🗂️ [MyCollection API](https://github.com/LucasBrum/mycollection-api)
+**Personal Collection Management System**
+- 🔧 **Tech**: Backend API development
+- 📋 **Focus**: Collection management and organization
+- 🎯 **Purpose**: Digital asset and collection tracking
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  
+![Lucas's GitHub Stats](https://github-readme-stats.vercel.app/api?username=LucasBrum&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasBrum&layout=compact&theme=radical&hide_border=true&bg_color=0D1117)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=LucasBrum&theme=radical&hide_border=true&background=0D1117)
+
+</div>
+
+---
+
+## 🎯 Current Focus & Learning Path
+
+```java
+@Developer
+public class LucasBrum {
+    private String[] currentlyLearning = {
+        "Advanced Spring Boot Features",
+        "Microservices Architecture Patterns",
+        "Cloud-Native Development",
+        "Kotlin for Backend Development",
+        "DevOps & CI/CD Pipelines"
+    };
+    
+    private String[] interests = {
+        "Distributed Systems",
+        "API Design & Development",
+        "Database Optimization",
+        "System Architecture",
+        "Performance Tuning"
+    };
+    
+    public String getDailyMotivation() {
+        return "Building tomorrow's solutions, one commit at a time! 🚀";
+    }
+}
+```
+
+---
+
+## 🌟 Professional Highlights
+
+- 🏗️ **Microservices Specialist**: Designing and implementing scalable microservice architectures
+- ☕ **Java Expert**: Deep expertise in Java ecosystem and Spring Framework
+- 🔄 **API Development**: Creating robust and well-documented RESTful APIs
+- 📱 **Full-Stack Experience**: Backend-focused with frontend integration capabilities
+- 🎓 **Continuous Learner**: Always exploring new technologies and best practices
+
+---
+
+## 🤝 Let's Connect!
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LucasBrum)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/lucas-brum)
+[![Email](https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lucas@email.com)
+
+</div>
+
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
+  
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=LucasBrum&theme=react-dark&hide_border=true&bg_color=0D1117)
+
+</div>
+
+---
+
+<div align="center">
+
+### 💭 Developer Quote
+*"The best way to predict the future is to create it through code."* 
+
+**🏠 Rio de Janeiro, Brazil** | **☕ Powered by Coffee & Code** | **🚀 Always Building Something New**
+
+![Profile Views](https://komarev.com/ghpvc/?username=LucasBrum&color=blueviolet&style=for-the-badge)
+
+</div>
+
+---
+
+*Thank you for visiting my profile! Feel free to explore my repositories and don't hesitate to reach out for collaborations or just to say hi! 👋*
